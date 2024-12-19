@@ -2,7 +2,9 @@
   "mappings": [
     "/content/eds-ue-017/:/",
     "/content/eds-ue-017/configuration:/.helix/config.json",
-    "/content/eds-ue-017/metadata:/metadata.json"
+    "/content/eds-ue-017/metadata:/metadata.json",
+    "/content/eds-ue-017/api/testimonial:api/testimonial.json"
+
   ],
   "includes": [
     "/content/eds-ue-017/"
